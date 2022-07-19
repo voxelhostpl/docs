@@ -31,7 +31,7 @@ const config = {
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/voxelhostpl/knowledge-base/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/voxelhostpl/knowledge-base/tree/master/',
         },
         blog: false,
         theme: {
