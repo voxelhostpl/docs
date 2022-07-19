@@ -72,7 +72,7 @@ const config = {
             items: [
               {
                 label: 'Wprowadzenie',
-                to: '/docs/',
+                to: '/',
               },
             ],
           },
