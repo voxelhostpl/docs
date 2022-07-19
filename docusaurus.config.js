@@ -16,7 +16,7 @@ const config = {
 
   organizationName: 'voxelhostpl',
   projectName: 'knowledge-base',
-
+  deploymentBranch: 'gh-pages',
   i18n: {
     defaultLocale: 'pl',
     locales: ['pl'],
