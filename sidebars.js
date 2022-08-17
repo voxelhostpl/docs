@@ -5,7 +5,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Poradniki',
-      items: ['tutorial/start', 'tutorial/onlinemode', 'tutorial/world'],
+      items: ['tutorial/start', 'tutorial/onlinemode'],
     },
   ],
 };
