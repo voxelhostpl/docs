@@ -37,11 +37,11 @@ Do rozpoczęcia działania moda potrzebujemy zrestartować swój serwer.
 Zmiana tych ustawień wiąże się z usunięciem obecnego świata, co spowoduje usunięcie obecnego postępu.
 :::
 
-By wygenerować nowy losowy seed na nasz serwer, należy wyłączyć serwer, usunać pliki `world`, `world_nether`, `world_the_end`. Po usunięciu plików i ponownym uruchomieniu serwera wygeneruje sie nowy świat.
+By wygenerować nowy losowy seed na nasz serwer należy : wyłączyć serwer, usunać pliki `world`, `world_nether`, `world_the_end`. Po usunięciu plików i ponownym uruchomieniu serwera wygeneruje sie nowy świat.
 
 Jeśli świata ma posiadać konkretny seed trzeba go podać w pliku `server.properties`. który znajduje sie w głównym folderze, interesująca nas opcja to `level-seed`, wpisujemy tam wybrany przez nas seed po ponownym włączeniu serwera, świat zostanie wygenerowany.
 
 
 ## Jak wgrać swój świat
 
-By wgrać swój świat nasz serwer, należy wyłączyć serwer, usunać pliki `world`, `world_nether`, `world_the_end`. 
+By wgrać swój świat nasz serwer należy : wyłączyć serwer, usunać pliki `world`, `world_nether`, `world_the_end`. Gdy pobieramy świat z internetu powinien być spakowany w rozszerzeniu `.zip`, gdy posiadamy owy plik należy przeciągnąc go do głównego folderu serwera i rozpakować klikając prawym przyciskiem myszy. Gdy chcemy spakować świat ze swojego komputera, potrzebujemy programu np. [winrar](https://www.winrar.pl/winrar/pobierz) i spakować swój świat klikając prawym przyciskiem myszy do formatu `.zip`. Po poprawnym spakowaniu powtórzyć czynność podaną wyżej.
