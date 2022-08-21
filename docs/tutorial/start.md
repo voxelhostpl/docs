@@ -15,7 +15,7 @@ W prawym rogu znajdują sie wszystkie sekcje, można wygodnie przeskoczyć do te
 
 Na samym początku by móc wgrać plugin na serwer musisz go pobrać, interesujące Cię pluginy można znależć na [SpigotMC](https://www.spigotmc.org). <br />
 
-Aby wgrać pluginy na nasz serwer musisz wejść do folderu `plugins` z głównego katalogu serwera, przykładowy katalog znajduje sie na zdjęciu poniżej. ![](/img/start/mainfolderpaper.png)
+Aby wgrać pluginy na nasz serwer musisz wejść do folderu `plugins` z głównego katalogu serwera, przykładowy katalog główny znajduje sie na zdjęciu poniżej. ![](/img/start/mainfolderpaper.png)
 
 Znajdując się już w folderze plugins przeciągamy plik pluginu z eksploratora plików na strone, a po chwili, plugin znajdzie sie na naszym serwerze.
 
@@ -25,7 +25,7 @@ Do rozpoczęcia działania pluginu potrzebujemy zrestartować swój serwer.
 
 Na samym początku by móc wgrać mody na serwer musisz je pobrać. Można ich szukać np. na [CurseForge](https://www.curseforge.com/minecraft/mc-mods) lub [Modrinth](https://modrinth.com/mods) dla serwerów opartych o Fabric. <br />
 
-Aby wgrać mody na nasz serwer musisz wejść do folderu `mods` z głównego katalogu serwera, przykładowy katalog znajduje sie na zdjęciu poniżej. ![](/img/start/mainfolderforge.png)
+Aby wgrać mody na nasz serwer musisz wejść do folderu `mods` z głównego katalogu serwera, przykładowy katalog główny znajduje sie na zdjęciu poniżej. ![](/img/start/mainfolderforge.png)
 
 Znajdując się już w folderze mods przeciągamy plik moda z eksploratora plików na strone, a po chwili mod znajdzie sie na naszym serwerze.
 
