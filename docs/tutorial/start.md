@@ -37,7 +37,7 @@ Do rozpoczęcia działania moda potrzebujemy zrestartować swój serwer.
 Zmiana tych ustawień zgodnie z poniższym opisem wiąże się z usunięciem obecnego świata, co spowoduje usunięcie obecnego postępu.
 :::
 
-By wygenerować nowy losowy seed na nasz serwer należy : 
+By wygenerować nowy losowy seed na nasz serwer należy: 
 * wyłączyć serwer, 
 * usunać pliki `world`, `world_nether`, `world_the_end`. 
 
@@ -47,7 +47,7 @@ Jeśli świata ma posiadać konkretny seed trzeba go podać w pliku `server.prop
 
 ## Jak wgrać swój świat
 
-By wgrać swój świat nasz serwer należy : <br />
+By wgrać swój świat nasz serwer należy: <br />
 * wyłączyć serwer, 
 * usunać pliki `world`, `world_nether`, `world_the_end`. 
 
