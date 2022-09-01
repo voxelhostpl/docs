@@ -26,7 +26,7 @@ Nie jesteśmy w stanie podać dokładnych instrukcji jak skonfigurować plugin j
 
 ## Jak ustawić własną ikonę dla serwera
 
-Ustawienie ikony serwera jest banalnie proste. Wystarczy przygotować sobie ikonę jaką chcemy posiadać. Musi być w rozdzielczości dokładnie `64 x 64` i posiadać rozszerzennie `png`. Można użyć do tego wielu dostępnych narzędzi - programów jak `GIMP`, `Paint.NET`, `Adobe Photoshop` itd. lub stron internetowych.
+Ustawienie ikony serwera jest banalnie proste. Wystarczy przygotować sobie ikonę jaką chcemy posiadać. Musi być w rozdzielczości dokładnie `64 x 64` i posiadać rozszerzennie `.png`. Można użyć do tego wielu dostępnych narzędzi - programów jak `GIMP`, `Paint.NET`, `Adobe Photoshop` itd. lub stron internetowych.
 
 Gdy mamy już odpowiednią ikonę wystarczy ją teraz nazwać server-icon i wrzucić do głównego katalogu serwera. Zrestartować serwer i wszystko powinno działać.
 
