@@ -20,7 +20,7 @@ Bardzo prosta i niewygodna opcja. Polega na zmianie motd w pliku `server.propert
 Lista przykładowych pluginów (my jednak nie polecamy żadnego konkretnego): <br />
 * [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
 * [MOTD](https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/)
-* [ServerListMOTD X](https://dev.bukkit.org/projects/serverlistmotd)
+* [ServerListMOTD](https://dev.bukkit.org/projects/serverlistmotd)
 
 Nie jesteśmy w stanie podać dokładnych instrukcji jak skonfigurować plugin jaki wybierzecie. Każdy z tych pluginów może mieć różniącą się od siebie konfiguracje lub funkcjonalności. Najlepiej samemu znaleźć plugin, który będzie odpowiedni dla twojego serwera.
 
@@ -32,4 +32,6 @@ Gdy mamy już odpowiednią ikonę wystarczy ją teraz nazwać server-icon i wrzu
 
 ## Dodatkowe opcje personalizacji
 
-TODO
+Niektóre pluginy takie jak ServerListPlus lub ServerListMOTD (wymienione wyżej) pozwalają dodatkowo spersonalizować i wyróżnić serwer na liście. Z najprostszych to wyświetlanie innego MOTD w zależności od tego jaki gracz na nie patrzy, używanie placeholderów lub wyświetlanie nieprawdziwej ilości slotów. Pozwalają też wyświetlać zamiast listy graczy po najechaniu na liczbę graczy wyświetlać własne informacje (dobre miejsce na wyświetlanie adresów np. strony, discord itp.). Dodatkową opcją jest również wyświetlanie własnej wiadomości, gdy gracz używa przestarzałej/zbyt nowej wersji serwera lub wymuszenie wyświetlania tej informacji - co pozwala np. na wyświetlanie liczby graczy z własnymi formatowaniem (np. sama liczba graczy bez maksymalnej liczby slotów).
+
+Wszystko znajdziecie w konfiguracjach samych pluginów. My nie jesteśmy w stanie podać dokładnych instrukcji jak skonfigurować dane pluginy.
