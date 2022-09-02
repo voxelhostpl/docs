@@ -18,9 +18,8 @@ Bardzo prosta i niewygodna opcja. Polega na zmianie motd w pliku `server.propert
 Łatwiejszym i lepszym rozwiązaniem może okazać się użycie zewnętrznego pluginu. Pozwoli on nam na łatwiejsze ustawienie naszego MOTD i użycie łatwiejszego formatu z użyciem `&` lub użycie HEX kolorów. 
 
 Lista przykładowych pluginów (my jednak nie polecamy żadnego konkretnego - to od was zależy, który wybierzecie): <br />
+* [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/)
 * [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
-* [MOTD](https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/)
-* [ServerListMOTD](https://dev.bukkit.org/projects/serverlistmotd)
 
 Nie jesteśmy w stanie podać dokładnych instrukcji jak skonfigurować plugin jaki wybierzecie. Każdy z tych pluginów może mieć różniącą się od siebie konfiguracje lub funkcjonalności. Najlepiej samemu znaleźć plugin, który będzie odpowiedni dla twojego serwera.
 
@@ -32,7 +31,7 @@ Gdy mamy już odpowiednią ikonę wystarczy ją teraz nazwać `server-icon` i wr
 
 ## Dodatkowe opcje personalizacji
 
-Niektóre pluginy takie jak ServerListPlus lub ServerListMOTD (wymienione wyżej) pozwalają dodatkowo spersonalizować i wyróżnić serwer na liście. Z najprostszych to wyświetlanie innego MOTD w zależności od tego jaki gracz na nie patrzy, używanie placeholderów (z np. PlaceholderAPI) lub wyświetlanie nieprawdziwej ilości slotów. Bardziej zaawansowanymi funkcjami to wyświetlanie zamiast listy graczy (po najechaniu na ich liczbę) własnych informacji - dobre miejsce na wyświetlanie adresów np. strony internetowej, discorda itp. 
+Niektóre pluginy pozwalają dodatkowo spersonalizować i wyróżnić serwer na liście. Z najprostszych to wyświetlanie innego MOTD w zależności od tego jaki gracz na nie patrzy, używanie placeholderów (z np. PlaceholderAPI) lub wyświetlanie nieprawdziwej ilości slotów. Bardziej zaawansowanymi funkcjami to wyświetlanie zamiast listy graczy (po najechaniu na ich liczbę) własnych informacji - dobre miejsce na wyświetlanie adresów np. strony internetowej, discorda itp. 
 
 Część pluginów oferują również wyświetlanie własnej wiadomości, gdy gracz używa przestarzałej/zbyt nowej wersji serwera (wyświetlanej na lewo od ikony z pingiem). Czasem możliwe jest nawet wymuszenie wyświetlania tej informacji - co pozwala np. na wyświetlanie liczby graczy z własnymi formatowaniem (np. sama liczba graczy bez maksymalnej liczby slotów). Jednym z ciekawszych sposobó na użycie tej opcji to wyświetlanie własnych informacji *na lewo* od ikony serwera np. wiadomości `Dołącz na serwer --->` co dodatkowo wyróżni nasz serwer - wystarczy dodać z prawej strony wystarczającą ilość spacji. Warto jednak mieć na uwadze, że nie zawsze taka informacja może się dobrze wyświetlać na różnych rozdzielczościach.
 
