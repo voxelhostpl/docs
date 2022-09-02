@@ -4,10 +4,10 @@ Gdy stworzysz już swój serwer na pewno chciałbyś, żeby wyróżniał się na
 
 Poniżej w odpowiednich sekcjach zostanie pokazane: <br />
 * [Jak ustawić MOTD](#jak-ustawić-motd)
-* [Jak ustawić własną ikonę](#jak-ustawić-własną-ikonę)
+* [Jak ustawić ikonę](#jak-ustawić-własną-ikonę)
 * [Dodatkowe opcje personalizacji](#dodatkowe-opcje-personalizacji)
 
-## Jak ustawić MOTD serwera
+## Jak ustawić MOTD
 
 Na ustawienie MOTD (wiadomości dnia), czyli dwóch linijek wyświetlanych przy każdym serwerze mamy 2 sposoby.
 
@@ -24,7 +24,7 @@ Lista przykładowych pluginów (my jednak nie jesteśmy polecić konkretnego - t
 
 Nie jesteśmy w stanie podać dokładnych instrukcji jak skonfigurować plugin jaki wybierzecie. Każdy z tych pluginów może mieć różniącą się od siebie konfiguracje lub funkcjonalności. Najlepiej samemu znaleźć plugin, który będzie odpowiedni dla twojego serwera.
 
-## Jak ustawić własną ikonę dla serwera
+## Jak ustawić ikonę
 
 Ustawienie ikony serwera jest banalnie proste. Wystarczy przygotować sobie ikonę jaką chcemy posiadać. Musi być w rozdzielczości dokładnie `64 x 64` i posiadać rozszerzennie `.png`. Można użyć do tego wielu dostępnych narzędzi - programów jak `GIMP`, `Paint.NET`, `Adobe Photoshop` itd. lub stron internetowych.
 
