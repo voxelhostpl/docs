@@ -17,7 +17,7 @@ Bardzo prosta i niewygodna opcja. Polega na zmianie motd w pliku `server.propert
 ### 2. Użycie zewnętrznego pluginu
 Łatwiejszym i lepszym rozwiązaniem może okazać się użycie zewnętrznego pluginu. Pozwoli on nam na łatwiejsze ustawienie naszego MOTD i użycie łatwiejszego formatu z użyciem `&` lub użycie HEX kolorów. 
 
-Lista przykładowych pluginów (my jednak nie jesteśmy polecić konkretnego - to od was zależy, który wybierzecie): <br />
+Lista przykładowych pluginów (my jednak nie polecamy żadnego konkretnego - to od was zależy, który wybierzecie): <br />
 * [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
 * [MOTD](https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/)
 * [ServerListMOTD](https://dev.bukkit.org/projects/serverlistmotd)
