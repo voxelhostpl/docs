@@ -3,7 +3,7 @@
 Gdy stworzysz już swój serwer na pewno chciałbyś, żeby wyróżniał się na liście serwerów.
 
 Poniżej w odpowiednich sekcjach zostanie pokazane: <br />
-* [Jak zmienić MOTD](#jak-ustawić-motd)
+* [Jak ustawić MOTD](#jak-ustawić-motd)
 * [Jak ustawić własną ikonę](#jak-ustawić-własną-ikonę)
 * [Dodatkowe opcje personalizacji](#dodatkowe-opcje-personalizacji)
 
