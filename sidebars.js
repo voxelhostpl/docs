@@ -5,7 +5,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Poradniki',
-      items: ['tutorial/start',],
+      items: ['tutorial/start', 'tutorial/server-list'],
     },
   ],
 };
