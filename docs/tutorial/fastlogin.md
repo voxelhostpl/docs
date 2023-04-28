@@ -1,10 +1,10 @@
 # FastLogin (logowanie premium)
 
-FastLogin to wtyczka, która pozwala na automatyczne logowanie graczy premium. Dzięki temu gracze nie muszą wpisywać hasła za każdym razem, gdy chcą się zalogować na serwerze.
+FastLogin to plugin, który pozwala na automatyczne logowanie graczy premium. Dzięki temu gracze premium nie muszą wpisywać hasła, gdy chcą się zalogować na serwerze.
 
 ## Wymagania
 
-FastLogin wymaga serwera Purpur lub Paper oraz zainstalowania pluginu ProtocolLib i pluginu AuthMe Reloaded, lub innego kompatybilnego pluginu na logowanie.
+FastLogin wymaga serwera z silnikiem Purpur lub Paper oraz zainstalowania pluginu ProtocolLib i pluginu AuthMe Reloaded, lub innego kompatybilnego pluginu na logowanie.
 
 ## Instalacja
 
