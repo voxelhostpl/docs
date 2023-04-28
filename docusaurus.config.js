@@ -55,12 +55,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Baza wiedzy',
-          },
-          {
             href: 'https://github.com/voxelhostpl/knowledge-base',
             label: 'GitHub',
             position: 'right',
