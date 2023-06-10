@@ -5,8 +5,7 @@ Na ten moment voxelhost.pl nie posiada BungeeCord w swojej ofercie. Jeżeli jedn
 od dodawania do niego serwerów hostowanych w voxelhost.
 
 ### Szczegółowe wymagania
-- BungeeCord
-- (opcjonalnie) Baza danych MySQL
+- serwer BungeeCord hostowany na innym hostingu lub VPS 
 
 ## Konfiguracja BungeeCord
 
